@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Selimjerbi66/Cyber-Ataraxia-ValeriA/blob/main/ValeriA/frontend/img/valeria_logo.png?raw=true" width="180" alt="ValeriA Logo"/>
+  <img src="https://raw.githubusercontent.com/Selimjerbi66/Cyber-Ataraxia-ValeriA/refs/heads/main/ValeriA/CA_logo.png" width="180" alt="ValeriA Logo"/>
   <h1>Cyber Ataraxia — ValeriA</h1>
 
   <p>
