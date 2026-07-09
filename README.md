@@ -117,7 +117,7 @@ docker run -d \
 ### 3. Clone the ValeriA repository
 
 ```bash
-git clone https://github.com/Selimjerbi66/Cyber-Ataraxia-ValeriA.git
+git clone https://github.com/Selimjerbi66/CyberAtaraxia-ValeriA.git
 cd Cyber-Ataraxia-ValeriA/ValeriA
 ```
 
