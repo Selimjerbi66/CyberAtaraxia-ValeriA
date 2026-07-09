@@ -71,6 +71,24 @@ Everything after the initial SearXNG query — scraping, prompting, inference �
 
 ---
 
+## 🖥️ Hardware Used
+
+ValeriA itself is lightweight — the backend, frontend, and SQLite database run comfortably on minimal resources. The heavy lifting is entirely delegated to **Ollama**, which is why usable performance depends primarily on the GPU(s) available to it, not on ValeriA.
+
+The reference rig used to develop and stress-test ValeriA during the prototype phase:
+
+| Component | Reference |
+|---|---|
+| Motherboard | ASRock H110 Pro BTC+ (13x PCIe slots) |
+| GPUs | 8x NVIDIA GeForce GTX 1060 6GB / P106-100 (Pascal architecture) |
+| PSU | FSP Aurum PT-1200FM — 1200W, 80+ Platinum, fully modular |
+| OS | AlmaLinux 9 |
+| LLM runtime | Ollama, serving Gemma 3 and Llama locally |
+
+> 💡 ValeriA does **not** require a multi-GPU mining rig to run. A single consumer GPU with 6–8GB of VRAM (or even CPU-only inference, at a much slower pace) is enough to get started with a small quantized model such as `gemma3:4b`.
+
+---
+
 ## 📁 Repository Structure
 
 ```
