@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Selimjerbi66/Cyber-Ataraxia-ValeriA/refs/heads/main/ValeriA/CA_logo.png" width="180" alt="ValeriA Logo"/>
-  <h1>Cyber Ataraxia — ValeriA</h1>
+  <h1>CyberAtaraxia — ValeriA</h1>
 
   <p>
     A self-hosted, privacy-first alternative to Open WebUI<br/>
